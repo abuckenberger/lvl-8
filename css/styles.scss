@@ -1,6 +1,14 @@
 /* Stylehsheet */
 @import "semantic";
 
-body {
-    background: cornflowerblue;
+html, body {
+    margin:0;
+    background: royalblue;
+  }
+
+h1 {
+    
+text-align: center;
+color: white;
+font-family: futura;
 }
